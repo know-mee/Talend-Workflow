@@ -1,0 +1,32 @@
+{
+  "itemId" : "_0mnNYM_cEfGVvYgmQ1zAeQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_83BZ0M_bEfGVvYgmQ1zAeQ",
+    "parameterList" : [ {
+      "id" : "_83desc_bEfGVvYgmQ1zAeQ",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_83dess_bEfGVvYgmQ1zAeQ",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_83des8_bEfGVvYgmQ1zAeQ",
+      "name" : "DB_NAME"
+    }, {
+      "id" : "_83detM_bEfGVvYgmQ1zAeQ",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_83detc_bEfGVvYgmQ1zAeQ",
+      "name" : "DB_PASS"
+    }, {
+      "id" : "_83dets_bEfGVvYgmQ1zAeQ",
+      "name" : "DB_SCHEMA"
+    }, {
+      "id" : "_83det8_bEfGVvYgmQ1zAeQ",
+      "name" : "FeedName"
+    }, {
+      "id" : "_83deuM_bEfGVvYgmQ1zAeQ",
+      "name" : "FileDate"
+    } ]
+  } ]
+}

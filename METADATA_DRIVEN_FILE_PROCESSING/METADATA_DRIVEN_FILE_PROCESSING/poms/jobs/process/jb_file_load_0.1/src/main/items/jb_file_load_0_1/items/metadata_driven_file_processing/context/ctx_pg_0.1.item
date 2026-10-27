@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_83desM_bEfGVvYgmQ1zAeQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_83desc_bEfGVvYgmQ1zAeQ" comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.168.1.5"/>
+  <contextParameter xmi:id="_83dess_bEfGVvYgmQ1zAeQ" comment="" name="DB_PORT" prompt="DB_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_83des8_bEfGVvYgmQ1zAeQ" comment="" name="DB_NAME" prompt="DB_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="de_dev"/>
+  <contextParameter xmi:id="_83detM_bEfGVvYgmQ1zAeQ" comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="de_admin"/>
+  <contextParameter xmi:id="_83detc_bEfGVvYgmQ1zAeQ" comment="" name="DB_PASS" prompt="DB_PASS?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:1HpgSEVQ7lv4yp+TnEHDA0rcoXqPMw9KE145MqzxtzycbxtS"/>
+  <contextParameter xmi:id="_83dets_bEfGVvYgmQ1zAeQ" comment="" name="DB_SCHEMA" prompt="DB_SCHEMA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="test"/>
+  <contextParameter xmi:id="_83det8_bEfGVvYgmQ1zAeQ" comment="" name="FeedName" prompt="FeedName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Employee"/>
+  <contextParameter xmi:id="_83deuM_bEfGVvYgmQ1zAeQ" comment="" name="FileDate" prompt="FileDate?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="2026-10-20"/>
+</talendfile:ContextType>
